@@ -1,3 +1,5 @@
+<img width="1907" height="856" alt="Screenshot 2026-07-10 202846" src="https://github.com/user-attachments/assets/1f9a893e-8eeb-47cb-8096-faf5e12ec64e" />
+<img width="1890" height="859" alt="Screenshot 2026-07-10 203023" src="https://github.com/user-attachments/assets/4833addf-389b-4696-afa1-b7c17b00541a" />
 # 📈 Walmart Weekly Sales Forecasting
 
 ## 📌 Overview
