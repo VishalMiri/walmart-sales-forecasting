@@ -95,9 +95,9 @@ requirements.txt
 
 ---
 
-## 📸 Application Preview
+## 📸 Application Link
 
-(Add screenshots here after deployment)
+(https://walmart-sales-forecasting-vishal.streamlit.app/)
 
 ---
 
